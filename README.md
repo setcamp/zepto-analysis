@@ -3,6 +3,8 @@
 
 <p align="center"><img src="http://www.zeptojs.cn/skin/logo.png" /></p>
 
+* 1.0 不支持AMD
+* 1.2 支持AMD
 
 
 * 事件委托
